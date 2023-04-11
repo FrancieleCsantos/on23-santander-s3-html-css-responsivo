@@ -1,3 +1,14 @@
+Realizado Fork e clone, adicionado na pasta exercicio para casa meu projeto responsivo.
+
+Nas imagens abaixo podemos verificar como o site fica na versão mobile. 
+
+
+![image](https://user-images.githubusercontent.com/104040061/231026275-5bfc9179-b4af-4859-9283-fd5760c9700d.png)
+![image](https://user-images.githubusercontent.com/104040061/231026408-d467a2ae-0cfc-411f-866c-eb1fa31056dc.png)
+![image](https://user-images.githubusercontent.com/104040061/231026527-c13b2dba-2b90-4b47-a9b4-34694222a380.png)
+
+
+
 <h1 align="center">
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
